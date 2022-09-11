@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="font-system flex flex-col min-h-screen">
       <Header />
-      <div className="flex-1">
+      <div className="flex-1 ">
         <Hero />
         <Biography />
       </div>
