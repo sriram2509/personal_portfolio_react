@@ -1,3 +1,37 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+[data-theme='light'] {
+  --textColor: #333;
+  --titleColor: #333;
+  --bgColor: #fafafa;
+  --linkColor: #01a2d8;
+}
+
+[data-theme='dark'] {
+  --textColor: #eee;
+  --titleColor: #eee;
+  --bgColor: #333;
+  --linkColor: #01a2d8;
+}
+
+body {
+  background-color: var(--bgColor);
+  color: var(--textColor);
+  min-height: 100vh;
+}
+
+a {
+  color: var(--linkColor);
+}
+
+h1 {
+  color: var(--titleColor);
+}
+
+footer {
+  background-color: var(--textColor);
+  color: var(--bgColor);
+}

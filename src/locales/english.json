@@ -1,7 +1,7 @@
 {
   "Biography": {
     "bio1": "My name is Sriram P. ",
-    "bio2": "I am a React developer graduating from ",
+    "bio2": "I am a Mern developer graduating from ",
     "bio3": "Uki Coding School ",
     "bio4": "this summer (Uki cohort 2022). ",
     "bio5": "I am familiar with the MERN framework which includes ",
@@ -10,14 +10,14 @@
     "bio8": "You can reach out via ",
     "bio9": "",
     "bio10": "",
-    "email": "email."
+    "email": "sriram250901@gmail.com"
   },
   "Hero": {
-    "title": "Prasath S.",
+    "title": "Sriram P.",
     "subtitle": {
-      "reactDev": "React developer",
-      "cricketPlayer": "Cricket player",
-      "hobbyPhotographer": "Hobby photographer"
+      "reactDev": "Mern developer",
+      "cricketPlayer": "Chess player",
+      "hobbyPhotographer": "photographer"
     }
   },
   "LanguageSwitch": {
