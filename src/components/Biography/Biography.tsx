@@ -26,7 +26,7 @@ const Biography = ({ className }: Props) => {
           <span>{t('Biography.bio7')}</span>
           <span>{t('Biography.bio8')}</span>
           <span>{t('Biography.bio9')}</span>
-          <a href="mailto:prasath.soosaithasan@soosap.co">
+          <a href="mailto:sriram250901@gmail.com">
             {t('Biography.email')}
           </a>
           <span>{t('Biography.bio10')}</span>

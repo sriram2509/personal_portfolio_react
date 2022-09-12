@@ -13,7 +13,7 @@
 [data-theme='dark'] {
   --textColor: #eee;
   --titleColor: #eee;
-  --bgColor: #333;
+  --bgColor: rgb(39, 43, 59);
   --linkColor: #01a2d8;
 }
 

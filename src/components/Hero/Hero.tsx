@@ -17,14 +17,14 @@ const Hero = ({ className }: Props) => {
       <Avatar />
       <Title />
       <Typed
-        className="flex justify-center text-2xl mx-2 text-center h-6"
+        className="flex justify-center text-2xl mx-2 text-center h-6 text-yellow-500 font-bold"
         strings={[
-          t('Hero.subtitle.reactDev'),
-          t('Hero.subtitle.cricketPlayer'),
-          t('Hero.subtitle.hobbyPhotographer'),
+          t('Hero.subtitle.MERNDev'),
+          t('Hero.subtitle.chessPlayer'),
+          t('Hero.subtitle.Photographer'),
         ]}
         typeSpeed={120}
-        backSpeed={40}
+        backSpeed={20}
         loop
       />
     </div>

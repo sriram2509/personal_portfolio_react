@@ -13,11 +13,11 @@
     "email": "sriram250901@gmail.com"
   },
   "Hero": {
-    "title": "Sriram P.",
+    "title": "P.Sriram ",
     "subtitle": {
-      "reactDev": "Mern developer",
-      "cricketPlayer": "Chess player",
-      "hobbyPhotographer": "photographer"
+      "MERNDev": "Mern developer",
+      "chessPlayer": "Chess player",
+      "Photographer": "photographer"
     }
   },
   "LanguageSwitch": {
